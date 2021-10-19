@@ -1,0 +1,80 @@
+.Mycolor
+{
+  background-color: #852634;
+}
+.ImgMycolor_first
+{
+  margin-top: 56px;
+  background-color: gray;
+  height: 100%;
+	overflow: hidden;
+}
+.ImgMycolor_first img
+{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+  object-position:top;
+}
+.DivMycolor
+{
+  background-color: #852634;
+  margin: 10px;
+  height: 500px;
+}
+.card
+{
+  background-color: #f3f2f0;
+  color:#852634;
+}
+.card-text
+{
+  color:#000;
+}
+.btn-outline-light
+{
+  background-color: #852634;
+}
+h1
+{
+  color: #852634;
+}
+hr
+{
+  color: #852634;
+}
+.page-link
+{
+  background-color: #852634;
+  color: #fff;
+}
+.page-item.disabled .page-link
+{
+  background-color: #852634;
+  color: #fff;
+}
+.page-link:hover {
+  z-index: 2;
+  color: #852634;
+  background-color: #fff;
+  border-color: #852634;
+}
+.btn-outline-light:hover {
+  color: #852634;
+  background-color: #fff;
+  border-color: #852634;
+}
+.carousel-caption
+{
+  border-radius: 5px;
+  background-color: #852634;
+}
+footer
+{
+  width: 100%;
+  height: 56px;
+  background-color: #852634;
+  color: #fff;
+  font-size: 20px;
+  padding-top: 10px;
+}
