@@ -19,8 +19,16 @@
 .DivMycolor
 {
   background-color: #852634;
-  margin: 10px;
-  height: 500px;
+  color:#fff;
+}
+.HMycolor
+{
+  background-color: #852634;
+  color:#fff;
+}
+.H1Mycolor
+{
+  color: #fff;
 }
 .card
 {
@@ -77,4 +85,13 @@ footer
   color: #fff;
   font-size: 20px;
   padding-top: 10px;
+}
+.card-footer
+{
+  background-color: #f3f2f0;
+  border-top: none;
+}
+.card-body
+{
+  border-bottom: none;
 }
